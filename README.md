@@ -1,6 +1,6 @@
 # configs
 
-# [دریافت کانفیگ های رایگان worker ](https://github.com/Ptechgithub/configs/tree/main/Gifts)
+# [လုပ်ရန် worker ](https://github.com/Ptechgithub/configs/tree/main/Gifts)
 
 
 
@@ -13,7 +13,7 @@
 https://raw.githubusercontent.com/Ptechgithub/configs/main/clash12.yaml
 ```
 
-## اسکریپت نصب wireguard با docker
+## လုပ်ရန် wireguard با docker
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/configs/main/wg.sh)
 ```
